@@ -1,7 +1,7 @@
 ### Project Overview
 
 - BurgerBash SQL Case study:Tables include Customer Orders, Runner Orders, Burger Runner, and Burger Name.
-- The project ensures smooth order processing and delivery tracking. Check out the SQL scripts for a comprehensive understanding of the data structure. Explore the world of burger order analysis through this practical project on GitHub.
+- The project ensures smooth order processing and delivery tracking. Check out the SQL scripts for a comprehensive understanding of the data structure. 
 
 ### Data Source 
 
