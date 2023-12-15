@@ -1,3 +1,14 @@
+# BurgerBash Case Study
+
+## Table Of Cotents
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results And Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
 ### Project Overview
 
 - BurgerBash SQL Case study:Tables include Customer Orders, Runner Orders, Burger Runner, and Burger Name.
@@ -22,7 +33,7 @@
 9. How many runners signed up for each 1 week period?
 10. What was the average distance travelled for each customer?
 
-### Results/Findings
+### Results And Findings
 
 1. Total Burgers Ordered:
 - 10 burgers were ordered in total.
