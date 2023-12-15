@@ -7,8 +7,7 @@
 
 - The data for this project originates from a custom schema designed for the BurgerBash SQL case study.
 - It consists of tables such as Customer Orders, Runner Orders, Burger Runner, and Burger Name. These tables provide a structured format for organizing information related to burger orders. 
-- The project's database is independently created, focusing on practical SQL. Refer to the GitHub repository for detailed insights into how these tables manage and structure data 
-in the context of the BurgerBash case study.
+- The project's database is independently created, focusing on practical SQL. 
 
 ### Exploratory Data Analysis
 
